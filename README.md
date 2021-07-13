@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marcio, a Frontend and Backend Jr. developer.
 - 👀 I’m interested in music, football and technology.
 - 🌱 I’m currently learning React JS.
-- 👨‍💻 I’m looking for a new job. 
+- 👨‍💻 I’m looking for a my 1st job.
 - 📫 How to reach me: marcio.dev.work@gmail.com
 
 <!---
