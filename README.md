@@ -2,7 +2,9 @@
 - 👀 I’m interested in music, football and technology.
 - 🌱 I’m currently learning React JS.
 - 👨‍💻 I’m looking for a my 1st job.
-- 📫 How to reach me: marcio.dev.work@gmail.com
+- 📫 How to reach me: 
+  - Mail: marcio.dev.work@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/marcio-huacacolqui
 
 <!---
 marcio-git/marcio-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
