@@ -5,6 +5,7 @@
 - 📫 How to reach me: 
   - Mail: marcio.dev.work@gmail.com
   - LinkedIn: https://www.linkedin.com/in/marcio-huacacolqui
+- Working in [No-Country](https://www.linkedin.com/company/nocountryforjuniordevs)
 
 <!---
 marcio-git/marcio-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
