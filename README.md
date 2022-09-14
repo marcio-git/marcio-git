@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marcio, a Frontend and Backend Jr. developer.
 - 👀 I’m interested in music, football and technology.
-- 🌱 I’m currently learning React JS.
-- 👨‍💻 I’m looking for a my 1st job.
+- 🌱 I’m currently learning TypeScript.
+- 👨‍💻 I’m open to new oportunities.
 - 📫 How to reach me: 
   - My landing page: [marcio-dev](https://marcio-dev.vercel.app/)
   - Mail: marcio.dev.work@gmail.com
